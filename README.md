@@ -1,5 +1,5 @@
 ## Hi World 👋
-I am a technologic fan. Love OS, Programming and Computing Cience.
+I Love Linux, Programming and Computing Cience.
 #### Setup
 ---
 [![Arch linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)](https://archlinux.org)
