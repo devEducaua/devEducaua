@@ -1,8 +1,8 @@
-## Hi World 👋
+# Hi World 👋
 I Love Linux and Programming
-#### Setup
+## Setup
 Archlinux + Neovim
 ---
-#### Technologies
+## Technologies
 - HTML, CSS, SASS, TailwindCSS, JavaScript, React, Svelte
 - NodeJS, Express
