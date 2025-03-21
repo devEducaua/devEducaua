@@ -1,5 +1,5 @@
 # Hi World 👋
-A Linux and programming enthusiast?
+A Linux and programming enthusiast
 ## Setup
 
 Archlinux + Neovim
