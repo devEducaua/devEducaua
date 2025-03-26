@@ -6,4 +6,4 @@ Archlinux + Neovim
 
 ## Technologies
 - HTML, CSS, SASS, TailwindCSS, JavaScript, React, Svelte
-- NodeJS, Express, PostreSQL
+- SQl, Bun, NodeJS, Express, PostreSQL
