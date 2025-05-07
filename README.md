@@ -5,5 +5,5 @@ A Linux and programming enthusiast
 Archlinux + Neovim
 
 ## Technologies
-- HTML, CSS, SASS, TailwindCSS, JavaScript, React, Svelte
-- SQL, Bun, NodeJS, Express, PostreSQL
+- HTML, CSS, SASS, TailwindCSS, JavaScript, React
+- SQL, Bun, NodeJS, Express, PostreSQL, Redis
