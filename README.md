@@ -1,6 +1,1 @@
-#### Technologies:
-- Currently main stack: 
-  - Typescript, Bun, Hono, PostgreSQL
-  
-- Other: 
-  - C, Lua, Javascript, NodeJS, Express.js, Html, Css, TailwindCSS, Docker, Git
+Technologies that i use: Typescript, Bun, Hono, PostgreSQL, C, Lua, Javascript, NodeJS, Express.js, Html, Css, TailwindCSS, Docker, Git
