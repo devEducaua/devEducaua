@@ -1,2 +1,6 @@
 Technologies that i use: 
-  - Typescript, Bun, Hono, PostgreSQL, Astro, C, Lua, Javascript, NodeJS, Express.js, Html, Css, TailwindCSS, Docker, Git
+  - Typescript, C, Lua, Javascript
+  - Bun, Deno, NodeJS
+  - PostgreSQL, Drizzle, Hono, Express
+  - Astro, Html, Css, TailwindCSS
+  - Docker, Git
